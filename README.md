@@ -1,4 +1,4 @@
-# Eloquent_test
+# Crud avec Eloquent
 
 Eloquent_test is a small Laravel sample project demonstrating basic Eloquent usage and a simple Contacts CRUD (Create, Read, Update, Delete).
 
